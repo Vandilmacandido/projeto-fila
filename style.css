@@ -1,0 +1,38 @@
+*{
+    margin: 8;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+body{
+   background-color: rgb(137, 152, 235);
+}
+.box{
+    position: relative;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 150px;
+
+}
+
+.toque{
+    position: relative;
+   margin-left: 50%;
+
+}
+.cpf{
+    position: relative;
+   margin-bottom: 5%;
+   margin-left: 42%;
+}
+
+
+#botom{
+    background-color: whitesmoke
+    position: absolute;
+
+}
+#botom:hover{
+    background: rgb(182, 167, 247);
+    box-shadow: inset 2px 2px 2px rgb(100, 245, 221);
+}
