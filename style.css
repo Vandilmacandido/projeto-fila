@@ -28,6 +28,8 @@ body{
 
 
 #botom{
+    display:block;
+    width: 78%;
     background-color: whitesmoke
     position: absolute;
 
